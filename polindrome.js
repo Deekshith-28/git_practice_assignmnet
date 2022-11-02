@@ -10,4 +10,4 @@ function rev(str){
   let sum=""
   for(let i=0str.length-1;0<=i;i--){
 	sum+=str[i]
-}
+  }
